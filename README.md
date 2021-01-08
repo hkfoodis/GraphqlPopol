@@ -13,3 +13,13 @@
 
 ## 서비스 구조
 <img src = "https://user-images.githubusercontent.com/43229125/103975810-6bd6be80-51b8-11eb-8caf-64a0fd69d1d5.png" width="40%">
+
+## 실행방법
+- KindService
+-- java -jar graphQL-Kind-0.0.1-SNAPSHOT.war
+
+- RestaurantService
+-- java -jar graphQL-Restaurant-0.0.1-SNAPSHOT.war
+
+- MenuService
+-- java -jar graphQL-Menu-0.0.1-SNAPSHOT.war
