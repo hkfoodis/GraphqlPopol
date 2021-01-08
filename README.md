@@ -7,5 +7,5 @@
 - Apollo Gateway: JavaScript
 
 ## 서비스 구조
-https://github.com/hkfoodis/GraphqlPopol/issues/1#issue-781841517
+![image](https://user-images.githubusercontent.com/43229125/103975810-6bd6be80-51b8-11eb-8caf-64a0fd69d1d5.png)
 
