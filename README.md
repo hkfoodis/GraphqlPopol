@@ -4,7 +4,7 @@
 ## 개발 환경
 - Database: MariaDB: db.t2.micro
 
-- KindService, RestaurantService, MenuService: Java Spring
+- KindService, RestaurantService, MenuService, Web: Java Spring
 
 - Apollo Gateway: JavaScript
 
@@ -23,3 +23,9 @@
 
 - MenuService
   - java -jar graphQL-Menu-0.0.1-SNAPSHOT.war
+
+- Apollo Gateway
+  - node gateway.js
+  
+- Web
+  - java -jar graphQL-Web-0.0.1-SNAPSHOT.war
