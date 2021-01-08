@@ -1,4 +1,6 @@
 # GraphqlPopol
+- GraphQL을 통한 음식주문시스템
+
 ## 개발 환경
 - Database: MariaDB: db.t2.micro
 
