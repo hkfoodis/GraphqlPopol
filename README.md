@@ -16,18 +16,26 @@
 
 ## 실행방법
 - KindService
-        
+```
   java -jar graphQL-Kind-0.0.1-SNAPSHOT.war
-        
+```
   
 - RestaurantService
-  - java -jar graphQL-Restaurant-0.0.1-SNAPSHOT.war
+```
+  java -jar graphQL-Restaurant-0.0.1-SNAPSHOT.war
+```
 
 - MenuService
-  - java -jar graphQL-Menu-0.0.1-SNAPSHOT.war
+```
+  java -jar graphQL-Menu-0.0.1-SNAPSHOT.war
+```
 
 - Apollo Gateway
-  - node gateway.js
-  
+```
+  node gateway.js
+``` 
+
 - Web
-  - java -jar graphQL-Web-0.0.1-SNAPSHOT.war
+```
+  java -jar graphQL-Web-0.0.1-SNAPSHOT.war
+```
