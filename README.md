@@ -5,3 +5,7 @@
 - KindService, RestaurantService, MenuService: Java Spring
 
 - Apollo Gateway: JavaScript
+
+## 서비스 구조
+
+
