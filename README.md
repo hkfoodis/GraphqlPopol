@@ -7,5 +7,4 @@
 - Apollo Gateway: JavaScript
 
 ## 서비스 구조
-![image](https://user-images.githubusercontent.com/43229125/103975810-6bd6be80-51b8-11eb-8caf-64a0fd69d1d5.png){: width="100" height="100"}
-
+<img src = "https://user-images.githubusercontent.com/43229125/103975810-6bd6be80-51b8-11eb-8caf-64a0fd69d1d5.png" width="60%">
